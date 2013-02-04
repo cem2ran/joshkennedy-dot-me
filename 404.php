@@ -1,3 +1,5 @@
+<?php theme_include('header'); ?>
+
 <section id="content">
 	<article class="post">
     <h1>Oh no, this page can&rsquo;t be found.</h1>
@@ -16,3 +18,4 @@
   </article>
 </section>
 
+<?php theme_include('footer'); ?>
